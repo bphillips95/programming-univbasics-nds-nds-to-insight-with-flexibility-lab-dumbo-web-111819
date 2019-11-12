@@ -130,7 +130,6 @@ def movies_with_directors_set(source)
   end 
  director_names
 end
-end
 # movie = source[index][:movies][index][:title]
 # director = source[index][:name]
 #   [[{director1: 'movie'}
