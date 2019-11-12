@@ -91,6 +91,11 @@ hash_of_total = {}
  end
 return hash_of_total
 end
+
+
+
+
+
 #  first push all the studios onto an array, use .unique to eliminate duplicates, then set key/value to 0 then loop through the studios adding th
 # final hash would be hash[index of array of studios] = add total gross per studio 
 
